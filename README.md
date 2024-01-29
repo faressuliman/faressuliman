@@ -1,5 +1,3 @@
-##<p align="center">
- 
-Hello there 👋, I'm Fares Ashraf
+## Hello there 👋, I'm Fares Ashraf
 
-</p>
+
