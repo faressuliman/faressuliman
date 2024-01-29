@@ -1,3 +1,4 @@
 <p align="center">
-test
+# Hello there 👋, I'm Fares Ashraf
+Currently studying Computer Science at Alexandria University
 </p>
