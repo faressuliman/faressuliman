@@ -10,5 +10,3 @@
   interests =  ["Basketball", "Esports"]
   languages = ["Englsih", "Arabic", "C++", "Java", "Python"]
 }
-```python
-
