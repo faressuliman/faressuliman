@@ -9,4 +9,4 @@
   interests =  ["Basketball", "Esports"]
   languages = ["Englsih", "Arabic", "C++", "Java", "Python"]
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faresashraf10)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faresashraf10)](https://github.com/anuraghazra/github-readme-stats)</p>
