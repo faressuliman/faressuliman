@@ -9,7 +9,7 @@
   name = "Fares"
   age =  "19"
   location = "Alexandria, Egypt"
-  interests =  ["Web Development", "Basketball", "Esports"]
+  interests =  ["Basketball", "Esports"]
   languages = ["C++", "Java", "Python", "JavaScript"]
   front_end = ["HTML", "CSS"]
 ```
