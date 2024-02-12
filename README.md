@@ -10,8 +10,7 @@
   age =  "19"
   location = "Alexandria, Egypt"
   interests =  ["Basketball", "Esports"]
-  languages = ["C++", "Java", "Python", "JavaScript"]
-  front_end = ["HTML", "CSS"]
+  languages = ["C++", "Java", "Python", "HTML5", "CSS3", "JavaScript"]
 ```
 
 [<p align="center">![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faresashraf10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</p>
