@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Fares Suliman</h1>
-<p align="center">Currently studying Computer Science at Faculty of Science, Alexandria University.
+<p align="center">Computer Science Student at Faculty of Science, Alexandria University.
   <br>
-  Interested in Web Development, specially front-end.
+  Interested in Frontend Web Development.
 </p>
 
 
