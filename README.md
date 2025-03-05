@@ -7,7 +7,7 @@
 
 ```python
   name = "Fares"
-  age =  "20"
+  age =  "21"
   location = "Alexandria, Egypt"
   interests =  ["Basketball", "Gym", "Esports"]
 ```
