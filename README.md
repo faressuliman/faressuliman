@@ -10,6 +10,9 @@
   age =  "21"
   location = "Alexandria, Egypt"
   interests =  ["Basketball", "Gym", "Esports"]
+  skilled_in = ["C++", "Java", "C#", "Python", "HTML", "CSS", "JavaScript", "TypeScript"]
+  frameworks = ["Bootstrap", "Tailwind"]
+  currently_learning = "ReactJS"
 ```
 
 [<p align="center">![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=faressuliman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</p>
