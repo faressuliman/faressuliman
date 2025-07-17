@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Fares</h1>
-<p align="center">Frontend Developer | Passionate about building clean, responsive UIs</p>
+<h3 align="center">Frontend Developer | Passionate about building clean, responsive UIs</h3>
 
 ---
 
@@ -43,7 +43,7 @@
   <br>
 
 - **🌐 Landing Page (Bootstrap)**  
-  A clean and modern marketing landing page built with Bootstrap.  
+  A responsive landing page built with Bootstrap, based on a Figma design, created as a practice project to improve layout implementation across different screen sizes. 
   🔗 [View Project](https://landing-page-bootstrap-rosy-two.vercel.app/)
   <br>
   <br>
@@ -61,13 +61,13 @@
   <br>
 
 - **🛒 LoomCorner – E-commerce Web UI**  
-  Figma desktop UI for a stylish and clean electronics store layout.  
+  Figma desktop UI for a stylish and clean clothes store layout.  
   🔗 [View UI](https://www.figma.com/design/pfGUsOcWalX6EOga6NNUe5/Project?node-id=0-1&t=7mwdSjZ1bXrs7Gvx-1)
   <br>
   <br>
 
 - **🎬 Cinema Online Booking**  
-  First group project in college using only HTML, CSS, and JS.  
+  First group project in college using only HTML, CSS, JS and PHP.  
   🔗 [View Project](https://cinema-online-booking.vercel.app)
 
 ---
