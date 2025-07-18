@@ -31,7 +31,7 @@
   <br>
 
 - **🌐 Landing Page (Bootstrap)**  
-  A responsive landing page built with Bootstrap, based on a Figma design, created as a practice project to improve layout implementation across different screen sizes. 
+  A responsive landing page built with Bootstrap, based on a Figma design, created as a practice project to improve layout implementation across different screen sizes.  
   🔗 [View Project](https://landing-page-bootstrap-rosy-two.vercel.app/)
   <br>
   <br>
