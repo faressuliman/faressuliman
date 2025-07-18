@@ -22,18 +22,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faressuliman&show_icons=true&theme=react&hide_border=true" alt="Fares' GitHub Stats" />
-</p>
-
-### 📊 Most Used Languages  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faressuliman&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Featured Projects  
 
 - **🏋️ Fitness Website**  
@@ -69,6 +57,13 @@
 - **🎬 Cinema Online Booking**  
   First group project in college using only HTML, CSS, JS and PHP.  
   🔗 [View Project](https://cinema-online-booking.vercel.app)
+
+---
+
+### 📈 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faressuliman&show_icons=true&theme=react&hide_border=true" alt="Fares' GitHub Stats" />
+</p>
 
 ---
 
