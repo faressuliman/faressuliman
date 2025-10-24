@@ -36,21 +36,9 @@
   <br>
   <br>
 
-- **📱 Vendix – Electronics Shopping App UI**  
-  Figma mobile UI design for shopping GPUs, CPUs, motherboards, and PC accessories.  
-  🔗 [View UI](https://www.figma.com/design/5zRT6CZxfMp7ChHW44FHKp/UI?node-id=0-1&t=IpTOiKs3Tn2sP8gA-1)
-  <br>
-  <br>
-
 - **🏥 Lifeline Hospital Website**  
   A modern hospital website for browsing departments and booking appointments.  
   🔗 [View Project](https://hospital-website-neon-zeta.vercel.app/)
-  <br>
-  <br>
-
-- **🛒 LoomCorner – E-commerce Web UI**  
-  Figma desktop UI for a stylish and clean clothes store layout.  
-  🔗 [View UI](https://www.figma.com/design/pfGUsOcWalX6EOga6NNUe5/Project?node-id=0-1&t=7mwdSjZ1bXrs7Gvx-1)
   <br>
   <br>
 
