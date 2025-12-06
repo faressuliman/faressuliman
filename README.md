@@ -24,14 +24,20 @@
 
 ### 🚀 Featured Projects  
 
+- **🛍 Furniro – Full-Stack E-Commerce Website** *(Latest Project)*  
+  Built with React, TypeScript, TailwindCSS, Supabase (Auth + Postgres + RLS), Redux Toolkit & TanStack Query.  
+  🔗 [View Project](https://furniro-one-rho.vercel.app/)
+  <br>
+  <br>
+
 - **🏋️ Fitness Website**  
   Built with React, TypeScript, Tailwind CSS, and Strapi. Uses ExerciseDB API for workouts.  
-  🔗 [View Project](https://www.linkedin.com/posts/faressuliman_depi-digitalegypt-graduationproject-activity-7328860149417132033-8go2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7s688BJ6c6EAl4pWgkIJB88DtrKQPNQwM)
+  🔗 [View Project](https://www.linkedin.com/posts/faressuliman_depi-digitalegypt-graduationproject-activity-7328860149417132033-8go2)
   <br>
   <br>
 
 - **🌐 Landing Page (Bootstrap)**  
-  A responsive landing page built with Bootstrap, based on a Figma design, created as a practice project to improve layout implementation across different screen sizes.  
+  Responsive landing page based on a Figma design.  
   🔗 [View Project](https://landing-page-bootstrap-rosy-two.vercel.app/)
   <br>
   <br>
@@ -43,22 +49,22 @@
   <br>
 
 - **🎬 Cinema Online Booking**  
-  First group project in college using only HTML, CSS, JS and PHP.  
-  🔗 [View Project](https://cinema-online-booking.vercel.app)
+  First group project using HTML, CSS, JS, and PHP.  
+  🔗 [View Project](https://cinema-online-booking.vercel.app/)
+  <br>
+  <br>
 
 ---
 
-### 📈 GitHub Stats  
+<h3>📈 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faressuliman&show_icons=true&theme=react&hide_border=true" alt="Fares' GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faressuliman&theme=react" alt="Fares' GitHub Summary" />
 </p>
 
 ---
 
 ### 📚 Currently Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
