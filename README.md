@@ -3,72 +3,50 @@
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack
+
+**Frontend & Styling**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+**Backend & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Featured Projects
 
-- **🛍 Furniro – Full-Stack E-Commerce Website** *(Latest Project)*  
-  Built with React, TypeScript, TailwindCSS, Supabase (Auth + Postgres + RLS), Redux Toolkit & TanStack Query.  
-  🔗 [View Project](https://furniro-one-rho.vercel.app/)
-  <br>
-  <br>
-
-- **🏋️ Fitness Website**  
-  Built with React, TypeScript, Tailwind CSS, and Strapi. Uses ExerciseDB API for workouts.  
-  🔗 [View Project](https://www.linkedin.com/posts/faressuliman_depi-digitalegypt-graduationproject-activity-7328860149417132033-8go2)
-  <br>
-  <br>
-
-- **🌐 Landing Page (Bootstrap)**  
-  Responsive landing page based on a Figma design.  
-  🔗 [View Project](https://landing-page-bootstrap-rosy-two.vercel.app/)
-  <br>
-  <br>
-
-- **🏥 Lifeline Hospital Website**  
-  A modern hospital website for browsing departments and booking appointments.  
-  🔗 [View Project](https://hospital-website-neon-zeta.vercel.app/)
-  <br>
-  <br>
-
-- **🎬 Cinema Online Booking**  
-  First group project using HTML, CSS, JS, and PHP.  
-  🔗 [View Project](https://cinema-online-booking.vercel.app/)
-  <br>
-  <br>
+| Project | Link | Tech Stack |
+| :--- | :--- | :--- |
+| **TurboTechnik MT** | [🌐 Official Website](https://www.turbotechnikmt.com/) | Next.js, Tailwind, TS, Nodemailer |
+| **Unify** | [📂 Graduation Project](https://github.com/faressuliman/unify) | React, Tailwind, Node.js, MySQL |
+| **Furniro** | [🛍 Live Demo](https://furniro-one-rho.vercel.app/) | React, TS, Tailwind, Supabase, Redux |
 
 ---
 
-<h3>📈 GitHub Stats</h3>
+### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faressuliman&theme=react" alt="Fares' GitHub Summary" />
 </p>
 
 ---
 
-### 📚 Currently Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/Fares%20Suliman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faressuliman/)
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faressuliman/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faressashruf@gmail.com)
