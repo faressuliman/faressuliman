@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🌟 Tech Stack
 
 **Frontend & Styling**
 <p align="left">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 💫 Featured Projects
 
 | Project | Link | Tech Stack |
 | :--- | :--- | :--- |
