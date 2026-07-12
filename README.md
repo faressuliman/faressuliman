@@ -31,7 +31,7 @@
 | Project | Link | Tech Stack |
 | :--- | :--- | :--- |
 | **TurboTechnik MT** | [🌐 Official Website](https://www.turbotechnikmt.com/) | Next.js, Tailwind, TS, Nodemailer |
-| **Unify** | [📂 Graduation Project](https://github.com/faressuliman/unify) | React, Tailwind, Node.js, MySQL |
+| **Unify** | [📂 Graduation Project](https://github.com/faressuliman/unify) | React, Tailwind, Node.js, MongoDB |
 | **Furniro** | [🛍 Live Demo](https://furniro-one-rho.vercel.app/) | React, TS, Tailwind, Supabase, Redux |
 
 ---
